@@ -60,10 +60,6 @@ CNN-Accuracy-Efficiency-Trade-offs-Across-Computing-Platforms-Controlled-Deploym
 └── LICENSE
 ```
 
-> **Note on reorganizing:** the repo currently has these files at the root. Moving them into `notebooks/`, `scripts/`, and `results/` subfolders (as shown above) makes the structure self-explanatory to a new visitor — GitHub will still render everything correctly with `git mv` and updated relative paths inside the notebooks (e.g., `../figs/`, `../results/`).
-
----
-
 ## Pipeline
 
 The experiment runs as five stages, each isolating one variable while holding everything else — architecture, weights, dataset, preprocessing — fixed:
