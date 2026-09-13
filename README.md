@@ -106,7 +106,7 @@ Check each script's `--help` output for the exact arguments it expects — flags
 | Role | Spec |
 |---|---|
 | GPU / training host | NVIDIA GeForce RTX 5060 (8GB VRAM), CUDA 12.8, PyTorch 2.11.0+cu128 |
-| CPU (desktop, same machine as GPU) | *(add exact CPU model)* |
+| CPU (desktop, same machine as GPU) |
 | CPU (laptop, independent replication) | 11th Gen Intel Core i7-1165G7 @ 2.80GHz, 4 physical / 8 logical cores, 15.7GB RAM |
 
 ## Citation
@@ -123,8 +123,6 @@ If you use this code, dataset split, or results, please cite:
   note         = {GitHub repository}
 }
 ```
-
-Plain text:
 
 > M. B. Asif, "CNN Accuracy–Efficiency Trade-offs Across Computing Platforms: A Literature-Motivated Controlled Deployment Experiment," GitHub repository, 2026. [Online]. Available: https://github.com/BILAL-ASIF-github/CNN-Accuracy-Efficiency-Trade-offs-Across-Computing-Platforms-Controlled-Deployment-Experiment
 
