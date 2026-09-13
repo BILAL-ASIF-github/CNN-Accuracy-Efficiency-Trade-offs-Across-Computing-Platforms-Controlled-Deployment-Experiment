@@ -1,2 +1,0 @@
-precision,images,correct,accuracy,latency_ms,inference_throughput_ips,wall_throughput_ips,inference_time_sec,wall_time_sec
-FP32,4050,3988,0.9846913580246913,152.9506921232678,6.538054755542187,6.307060955724745,619.4503030992346,642.1374438000203
