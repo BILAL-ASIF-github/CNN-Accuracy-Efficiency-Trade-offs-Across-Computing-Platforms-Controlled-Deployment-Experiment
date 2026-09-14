@@ -156,10 +156,6 @@ If you use this code, dataset split, or results, please cite:
 
 > M. B. Asif, "CNN Accuracy–Efficiency Trade-offs Across Computing Platforms: A Literature-Motivated Controlled Deployment Experiment," GitHub repository, 2026. [Online]. Available: https://github.com/BILAL-ASIF-github/CNN-Accuracy-Efficiency-Trade-offs-Across-Computing-Platforms-Controlled-Deployment-Experiment
 
-## License
-
-*(TBD)*
-
 ## Author
 
 **Muhammad Bilal Asif**
