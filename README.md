@@ -109,6 +109,36 @@ Check each script's `--help` output for the exact arguments it expects — flags
 | CPU (desktop, same machine as GPU) |
 | CPU (laptop, independent replication) | 11th Gen Intel Core i7-1165G7 @ 2.80GHz, 4 physical / 8 logical cores, 15.7GB RAM |
 
+## DOI
+
+This research artifact is archived on Zenodo:
+
+DOI: [ZENODO DOI]
+
+The archived version provides a persistent, citable record of the
+paper, code, experimental results, and supporting research artifacts.
+
+## Paper
+
+Muhammad Bilal Asif, "CNN Accuracy–Efficiency Trade-offs Across
+Computing Platforms: A Literature-Motivated Controlled Deployment
+Experiment," 2026.
+
+## Reproducibility
+
+The repository contains the complete experimental pipeline used in
+the study, including:
+
+- ResNet-18 training
+- EuroSAT preprocessing
+- FP32/FP16/INT8 model variants
+- CPU and GPU benchmarking
+- latency and throughput measurement
+- memory measurement
+- Pareto analysis
+- result generation
+- independent laptop CPU replication
+  
 ## Citation
 
 If you use this code, dataset split, or results, please cite:
