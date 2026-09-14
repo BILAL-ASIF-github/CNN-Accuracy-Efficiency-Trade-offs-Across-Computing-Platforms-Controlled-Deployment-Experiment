@@ -113,7 +113,7 @@ Check each script's `--help` output for the exact arguments it expects — flags
 
 This research artifact is archived on Zenodo:
 
-DOI: [ZENODO DOI]
+DOI: (https://doi.org/10.5281/zenodo.22755021)
 
 The archived version provides a persistent, citable record of the
 paper, code, experimental results, and supporting research artifacts.
